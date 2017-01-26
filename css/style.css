@@ -249,6 +249,10 @@ a.down-btn span.fa.fa-angle-down {
 	margin-top: 30px;
 }
 
+.skillButton{
+	margin-right: 301px;
+}
+
 #overview-video {
 	background: url(../img/bg2.jpg);
 	background-size: cover;
